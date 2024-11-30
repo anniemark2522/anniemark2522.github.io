@@ -31,7 +31,7 @@
 ---
 
 ## 🦄 Assignment
-[💻 **Work1: Vocabulary**](https://anniemark2522.github.io/vocabulary)  
+[💻 **Work1: Vocabulary**](https://anniemark2522.github.io/vocab/vocabulary)  
 
 <br> <!-- เพิ่มการเว้นบรรทัด -->
 
