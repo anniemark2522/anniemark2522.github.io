@@ -1,4 +1,7 @@
-theme: minima
+#theme: minima
 sass:
   custom_css: assets/css/style.scss  # หรือใช้ .css หากคุณใช้ไฟล์ CSS แทน SCSS
-  
+theme: jekyll-theme-minimal # ใช้ธีม minimal
+url: "https://anniemark2522.github.io"
+baseurl: ""
+color_scheme: "pink"  # ให้ใช้สีชมพูในการแสดงผล

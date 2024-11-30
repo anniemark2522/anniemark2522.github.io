@@ -30,7 +30,3 @@
 | **Digital Signatures** | เมื่อเซ็นเอกสารสำคัญในรูปแบบดิจิทัล เช่น สัญญาหรือข้อตกลง                                       | ระบบจะสร้าง message digest ของเอกสาร และเข้ารหัสด้วยกุญแจส่วนตัวเพื่อสร้างลายเซ็นดิจิทัล                                                     |
 
 ---
-
-## Additional Notes
-- Message Digest is essential for ensuring **data integrity** and **authentication** but not for confidentiality.
-- Common algorithms used for creating message digests include **MD5**, **SHA-1**, and **SHA-256**.

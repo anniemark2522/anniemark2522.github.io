@@ -25,10 +25,6 @@
 <br> <!-- เพิ่มการเว้นบรรทัด -->
 
 ---
-| Assignment         | Description                                                   |
-|--------------------|---------------------------------------------------------------|
-| 🌟 Work1: Vocabulary | การเปรียบเทียบความหมายของคำในวิชา Security.                  |
-
 
 ## 🦄 Assignment
 [💻 **Work1: Vocabulary**](https://anniemark2522.github.io/vocabulary)  
@@ -37,6 +33,21 @@
 
 ---
 
-## 🔗 Get in Touch  
+## 🔗 Contact
 - 📧 Email: [klittima.c@live.ku.th](mailto:klittima.c@live.ku.th)
+
+---
+
+### 💖 Config Customization for Cute Pink Theme  
+To make the page look even more adorable, we can modify the `_config.yml` file of the GitHub Pages site. Add the following to the `config.yml` for a cute pink look:
+
+```yml
+# _config.yml
+
+theme: jekyll-theme-minimal
+title: "Klittima's Cute GitHub Page"
+description: "A lovely profile with a pink minimal theme"
+url: "https://anniemark2522.github.io"
+baseurl: ""
+color_scheme: "pink"
 
