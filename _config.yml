@@ -1,6 +1,6 @@
 title: "Klittima's GitHub Page"  # ชื่อเว็บไซต์
 description: "A cute minimal theme page"  # คำอธิบาย
-theme: "./devlopr-jekyll"  # ใช้ธีม devlopr-jekyll จาก remote
+theme: "devlopr-jekyll"  # ใช้ธีม devlopr-jekyll จาก remote
 
 url: "https://anniemark2522.github.io"  # URL ของ GitHub Pages
 baseurl: ""  # ใช้ baseurl เป็นค่าว่างเพื่อให้ URL เป็นตามที่กำหนดใน url
