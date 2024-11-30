@@ -1,9 +1,9 @@
-<div align="center" style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: #ffe4e1; border-radius: 15px;">
 
-# 🎀 Welcome to My GitHub Page 🎀
+# 🎀 <span style="font-size: 36px;">Welcome to My GitHub Page 🎀</span>
+<br>
 
 ✨ **Explore my projects and works in style!** ✨
-
+<br>
 ---
 
 ### 🌐 GitHub Page URL  
