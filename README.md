@@ -7,7 +7,7 @@
 ---
 
 ### 🌐 GitHub Page URL
-[🌸 Visit My Portfolio 🌸](https://anniemark2522.github.io)
+[🌸 Visit My Profile 🌸](https://anniemark2522.github.io)
 
 <img src="assets/image/picture.jpg" width="160px" alt="My Profile" style="border-radius: 50%; border: 3px solid #ff69b4; margin: 20px 0;">
 
