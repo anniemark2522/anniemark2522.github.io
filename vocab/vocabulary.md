@@ -1,6 +1,6 @@
 # Message Digest
 
-## Definition from Different Sources
+## CISSP Glossary Definition And Comparative Meaning
 
 | **Source**          | **Definition**                                                                                     |
 |----------------------|---------------------------------------------------------------------------------------------------|
@@ -11,7 +11,7 @@
 
 ---
 
-## NIST Definition
+## NIST Definition And Comparative Meaning
 
 | **Source**          | **Definition**                                                                                     |
 |----------------------|---------------------------------------------------------------------------------------------------|
