@@ -6,7 +6,7 @@
 
 ### Image
 <!-- ![Image](assets/image/picture.jpg) -->
-<img src="assets/image/picture.jpg" width="200" height="220" alt="My Profile">
+<img src="assets/image/picture.jpg" width="100"alt="My Profile">
 
 ### Information:
 - 💡 This is a simple GitHub Page.
