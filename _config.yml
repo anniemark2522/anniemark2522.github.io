@@ -1,13 +1,7 @@
-# ตัวอย่างไฟล์ _config.yml สำหรับ Jekyll
-title: My GitHub Pages Site
-description: A simple site hosted with GitHub Pages
-url: "https://anniemark2522.github.io"
-theme: jekyll-theme-slate
-
-# ตั้งค่าหน้า Home
-theme:
-  name: jekyll-theme-minimal
-  remote_theme: jekyll-theme-minimal
-
-# การตั้งค่าอื่นๆ เช่น การจัดการ layout หรือการแสดงผล
-baseurl: "/"
+theme: minima
+# Customize the theme with CSS
+sass:
+  custom_css: assets/css/style.scss
+theme: minima
+sass:
+  custom_css: assets/css/style.css
