@@ -1,30 +1,8 @@
-/* _scss/style.scss */
-$primary-color: #ff69b4;  /* ใช้สีชมพู */
-$background-color: #ffeef8;  /* พื้นหลังชมพูอ่อน */
-
 body {
-  background-color: $background-color;
-  color: $primary-color;
-}
-
-a {
-  color: $primary-color;
-}
-
-a:hover {
-  color: darken($primary-color, 10%);
-}
-
-img {
-  border-radius: 50%;
-  border: 3px solid $primary-color;
-}
-body {
-    background-color: #fff0f6;  /* สีชมพูอ่อน */
-    color: #ff69b4;  /* สีข้อความชมพู */
+    background-color: #ffe6f2;  /* สีชมพูอ่อน */
   }
   
   a {
-    color: #ff69b4;  /* สีลิงก์ชมพู */
+    color: #ff007f;  /* สีชมพูเข้ม */
   }
   

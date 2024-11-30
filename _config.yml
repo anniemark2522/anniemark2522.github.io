@@ -10,6 +10,8 @@ color_scheme: "pink"  # ให้ใช้สีชมพูในการแ�
 
 title: "Klittima's Cute GitHub Page"  # ชื่อเว็บไซต์
 description: "A cute minimal theme page"  # คำอธิบาย
-remote_theme: chesterhow/tale
+
+remote_theme: pages-themes/cayman
+
 
 
