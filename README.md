@@ -1,4 +1,3 @@
-# anniemark2522.github.io
 # Welcome to My GitHub Page
 
 ### GitHub Page URL
