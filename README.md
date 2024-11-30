@@ -10,7 +10,8 @@
 
 <br> <!-- เพิ่มการเว้นบรรทัด -->
 
-<img src="assets/image/picture.jpg" width="250px" alt="My Profile" style="border-radius: 50%; margin: 20px 0;">
+<img src="assets/image/picture.jpg" width="250px" alt="My Profile" style="border-radius: 50%; margin: 20px 0; display:block; margin-left:auto; margin-right:auto;">
+
 
 <br> <!-- เพิ่มการเว้นบรรทัด -->
 

@@ -1,0 +1,8 @@
+title: "Vocabulary Project"
+description: "Vocabulary for learning"
+theme: "jekyll-theme-minimal"
+url: "https://anniemark2522.github.io/vocabulary"
+baseurl: "/vocabulary"  # กำหนด baseurl เป็น "/vocabulary" เพื่อให้ URL ย่อยถูกต้อง
+color_scheme: "light"  # หรือ "dark" ขึ้นอยู่กับธีมที่เลือก
+sass:
+  custom_css: assets/css/style.scss
