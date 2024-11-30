@@ -1,6 +1,6 @@
 <div align="center" style="background-color: #ffe4e1; padding: 20px; border-radius: 15px;">
 
-# 🎀 Welcome to My GitHub Portfolio 🎀
+# 🎀 Welcome to My GitHub Page 🎀
 
 ✨ **Explore my projects and works in style!** ✨
 
