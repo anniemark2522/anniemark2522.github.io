@@ -5,7 +5,7 @@
 - Visit my website: [https://anniemark2522.github.io](https://anniemark2522.github.io)
 
 ### Image
-![Sample Image](https://via.placeholder.com/200)
+![Image](assets/image/picture.jpg)
 
 ### Information:
 - 💡 This is a simple GitHub Page.
