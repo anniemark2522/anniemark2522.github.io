@@ -25,9 +25,12 @@
 <br> <!-- เพิ่มการเว้นบรรทัด -->
 
 ---
+| Assignment         | Description                                                   |
+|--------------------|---------------------------------------------------------------|
+| 🌟 [Work1: Vocabulary](https://anniemark2522.github.io/vocabulary) | การเปรียบเทียบความหมายของคำในวิชา Security. |
 
-## 🎯 My Projects  
-[💻 **Work1: Vocabulary**](https://anniemark2522.github.io)  
+## 🦄 Assignment
+[💻 **Work1: Vocabulary**](https://anniemark2522.github.io/vocabulary)  
 
 <br> <!-- เพิ่มการเว้นบรรทัด -->
 
