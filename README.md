@@ -4,9 +4,12 @@
 ✨ **Explore my projects and works in style!** ✨
 
 ---
+<div style="text-align: center;">
+  <a href="https://anniemark2522.github.io" style="font-size: 1.5rem; color: #007bff; text-decoration: none;">
+    🌸 Visit My Profile 🌸
+  </a>
+</div>
 
-### 🌐 GitHub Page URL  
-[🌸 Visit My Profile 🌸](https://anniemark2522.github.io)
 
 <br> <!-- เพิ่มการเว้นบรรทัด -->
 
