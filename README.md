@@ -21,24 +21,31 @@
 ---
 
 ## 📌 Personal Information  
-- **Name:** Klittima Chaowadee  
-- **Student ID:** 6530200568  
-- **University:** Kasetsart University Sriracha Campus  
-- **Major:** Computer Science  
+<div style="text-align: center;">
+  - **Name:** Klittima Chaowadee  
+  - **Student ID:** 6530200568  
+  - **University:** Kasetsart University Sriracha Campus  
+  - **Major:** Computer Science  
+</div>
 
 <br> <!-- เพิ่มการเว้นบรรทัด -->
 
 ---
 
 ## 🦄 Assignment
-[💻 **Work1: Vocabulary**](https://anniemark2522.github.io/vocabulary)  
+<div style="text-align: center;">
+  [💻 **Work1: Vocabulary**](https://anniemark2522.github.io/vocabulary)  
+</div>
 
 <br> <!-- เพิ่มการเว้นบรรทัด -->
 
 ---
 
 ## 🔗 Contact
-- 📧 Email: [klittima.c@live.ku.th](mailto:klittima.c@live.ku.th)
+<div style="text-align: center;">
+  - 📧 Email: [klittima.c@live.ku.th](mailto:klittima.c@live.ku.th)
+</div>
 
 ---
+
 
