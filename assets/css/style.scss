@@ -1,6 +1,6 @@
 /* _scss/style.scss */
-$primary-color: #ff69b4; /* สีชมพูหลัก */
-$background-color: #ffeef8; /* สีพื้นหลังชมพูอ่อน */
+$primary-color: #ff69b4;  /* ใช้สีชมพู */
+$background-color: #ffeef8;  /* พื้นหลังชมพูอ่อน */
 
 body {
   background-color: $background-color;
@@ -12,7 +12,7 @@ a {
 }
 
 a:hover {
-  color: darken($primary-color, 10%); /* สีชมพูเข้มเมื่อชี้เมาส์ */
+  color: darken($primary-color, 10%);
 }
 
 img {
