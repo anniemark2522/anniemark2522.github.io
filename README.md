@@ -12,7 +12,7 @@
 <br> <!-- Add line break here -->
 
 <img src="assets/image/picture.jpg" width="160px" alt="My Profile" style="border-radius: 50%; border: 3px solid #ff69b4; margin: 20px 0;">
-
+<br>
 ---
 
 ## 📌 Personal Information  
