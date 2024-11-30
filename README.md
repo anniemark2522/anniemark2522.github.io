@@ -1,3 +1,7 @@
+<div align="center">
+
+# 🎀 Welcome to My GitHub Page 🎀
+
 ✨ **Explore my projects and works in style!** ✨
 
 ---
@@ -5,10 +9,8 @@
 ### 🌐 GitHub Page URL  
 [🌸 Visit My Profile 🌸](https://anniemark2522.github.io)
 
-<br>
-
 <img src="assets/image/picture.jpg" width="250px" alt="My Profile" style="border-radius: 50%; border: 3px solid #ff69b4; margin: 20px 0;">
-
+<br>
 ---
 
 ## 📌 Personal Information  
@@ -21,8 +23,7 @@
 
 ## 🎯 My Projects  
 
-[💻 **Personal Portfolio Website**](https://anniemark2522.github.io)  
-A showcase of my works and achievements.
+[💻 **Work1: Vocabulary**](https://anniemark2522.github.io)  
 
 ---
 
