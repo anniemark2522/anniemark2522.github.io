@@ -1,8 +1,36 @@
+/* Style สำหรับ body */
 body {
-    background-color: #ffe6f2;  /* สีชมพูอ่อน */
+    background-color: #ffe6f2;  /* สีชมพูอ่อนสำหรับพื้นหลัง */
   }
   
+  /* ลิงค์ */
   a {
-    color: #ff007f;  /* สีชมพูเข้ม */
+    color: #ff007f;  /* สีชมพูเข้มสำหรับลิงค์ */
+  }
+  
+  /* Header section */
+  .header-section {
+    background: linear-gradient(to bottom, #ff007f, #ff69b4, #ffe6f2); /* ไล่สีชมพูจากเข้มไปอ่อน */
+    color: #ffffff; /* สีตัวอักษรเป็นสีขาว */
+    padding: 30px;
+    text-align: center;
+  }
+  
+  /* กำหนด margin ให้กับ h1 และ p ภายใน header-section */
+  .header-section h1, .header-section p {
+    margin: 0;
+  }
+  
+  /* Site Header */
+  .site-header {
+    background: linear-gradient(to bottom, #ff007f, #ff69b4, #ffe6f2); /* ไล่สีชมพูจากเข้มไปอ่อน */
+    color: white; /* สีตัวอักษรให้เป็นขาว */
+    text-align: center;
+    padding: 40px 0;
+  }
+  
+  /* กำหนด margin ให้กับ h1 และ p ภายใน site-header */
+  .site-header h1, .site-header p {
+    margin: 0;
   }
   

@@ -7,9 +7,9 @@ baseurl: ""
 color_scheme: "pink"  # ให้ใช้สีชมพูในการแสดงผล
 
 
-
-title: "Klittima's Cute GitHub Page"  # ชื่อเว็บไซต์
+title: "Klittima's GitHub Page"  # ชื่อเว็บไซต์
 description: "A cute minimal theme page"  # คำอธิบาย
+
 
 remote_theme: pages-themes/cayman
 
