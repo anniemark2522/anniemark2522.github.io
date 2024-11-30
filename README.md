@@ -5,7 +5,8 @@
 - Visit my website: [https://anniemark2522.github.io](https://anniemark2522.github.io)
 
 ### Image
-![Image](assets/image/picture.jpg)
+<!-- ![Image](assets/image/picture.jpg) -->
+<img src="assets/image/picture.jpg" width="200" height="220" alt="My Profile">
 
 ### Information:
 - 💡 This is a simple GitHub Page.
