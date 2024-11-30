@@ -1,7 +1,4 @@
 theme: minima
-# Customize the theme with CSS
 sass:
-  custom_css: assets/css/style.scss
-theme: minima
-sass:
-  custom_css: assets/css/style.css
+  custom_css: assets/css/style.scss  # หรือใช้ .css หากคุณใช้ไฟล์ CSS แทน SCSS
+  

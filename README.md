@@ -1,6 +1,3 @@
-
-# 🎀 Welcome to My GitHub Page 🎀
-
 ✨ **Explore my projects and works in style!** ✨
 
 ---
@@ -10,7 +7,7 @@
 
 <br>
 
-<img src="assets/image/picture.jpg" width="300px" alt="My Profile" style="border-radius: 50%; border: 3px solid #ff69b4; margin: 20px 0;">
+<img src="assets/image/picture.jpg" width="250px" alt="My Profile" style="border-radius: 50%; border: 3px solid #ff69b4; margin: 20px 0;">
 
 ---
 

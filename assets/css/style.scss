@@ -1,78 +1,33 @@
-// Define pink color palette
-$light-pink: #ffe4e1;
-$soft-pink: #ff69b4;
-$deep-pink: #ff1493;
-$white: #fff0f5;
-
-// General Body Style
+/* เปลี่ยนพื้นหลังเป็นสีชมพูอ่อน */
 body {
-  font-family: 'Arial', sans-serif;
-  background-color: $white;
-  color: #333;
-  margin: 0;
-  padding: 0;
-  text-align: center;
-}
-
-// Container Style
-div {
-  background-color: $light-pink;
-  padding: 20px;
-  border-radius: 15px;
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-// Title Style
-h1 {
-  color: $soft-pink;
-  font-size: 2.5em;
-  margin-bottom: 10px;
-}
-
-// Subtitle Style
-h3 {
-  color: $deep-pink;
-  font-size: 1.5em;
-  margin-bottom: 20px;
-}
-
-// Paragraph Style
-p {
-  font-size: 1.2em;
-  line-height: 1.6;
-  margin: 10px 0;
-}
-
-// Profile Image Style
-img {
-  border-radius: 50%;
-  border: 3px solid $soft-pink;
-  margin: 20px 0;
-}
-
-// Link Style
-a {
-  color: $deep-pink;
-  text-decoration: none;
-  font-weight: bold;
-  
-  &:hover {
-    text-decoration: underline;
+    background-color: #ffe4e1; /* สีชมพูอ่อน */
+    color: #333; /* ตัวอักษรสีเข้มเพื่อให้อ่านง่าย */
   }
-}
-
-// Button Style
-button, a {
-  padding: 10px 20px;
-  margin: 10px 0;
-  background-color: $soft-pink;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
   
-  &:hover {
-    background-color: $deep-pink;
+  /* เปลี่ยนลิงก์และปุ่มเป็นสีชมพู */
+  a {
+    color: #ff69b4; /* สีชมพูสด */
   }
-}
+  
+  a:hover {
+    color: #ff1493; /* เปลี่ยนสีเมื่อชี้เมาส์ไปที่ลิงก์ */
+  }
+  
+  /* เปลี่ยนหัวข้อใหญ่เป็นสีชมพู */
+  h1, h2, h3 {
+    color: #ff69b4; /* สีชมพู */
+  }
+  
+  /* เพิ่มขอบที่เป็นสีชมพู */
+  img {
+    border: 3px solid #ff69b4;
+    border-radius: 50%;
+  }
+  
+  /* สไตล์ของพื้นหลัง */
+  header {
+    background-color: #ffb6c1; /* สีชมพูอ่อน */
+    padding: 20px;
+    border-radius: 15px;
+  }
+  
