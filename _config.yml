@@ -5,7 +5,4 @@ url: "https://anniemark2522.github.io"  # URL ของ GitHub Pages
 baseurl: ""  # ใช้ baseurl เป็นค่าว่างเพื่อให้ URL เป็นตามที่กำหนดใน url
 color_scheme: "light"  # หรือ "dark" ขึ้นอยู่กับธีมที่เลือกและความต้องการ
 sass:
-  custom_css: assets/css/style.scss  # หรือ style.css
-
-
-# กำหนดการตั้งค่าอื่นๆ ที่เกี่ยวข้องกับธีม เช่น การแสดงผลของ header, footer, social icons เป็นต้น
+  custom_css: assets/css/style.scss  # หรือ style.css ถ้าคุณใช้ไฟล์ CSS ที่กำหนดเอง
