@@ -1,19 +1,20 @@
-# Welcome to My GitHub Page
+# Welcome to My Cute GitHub Page 🎀
 
 ### GitHub Page URL
 - Visit my website: [https://anniemark2522.github.io](https://anniemark2522.github.io)
 
 ### Image
-<!-- ![Image](assets/image/picture.jpg) -->
-<img src="assets/image/picture.jpg" width="100"alt="My Profile">
+<img src="assets/image/picture.jpg" width="150px" alt="My Profile" style="border-radius: 50%; border: 2px solid #ff69b4;">
 
 ### Information:
-- 💡 This is a simple GitHub Page.
-- 📷 The page includes an image.
-- 📑 The page has bullet points and a custom theme.
+- 🌸 This page has a cute pink theme!
+- 🐾 Includes a playful design and fonts.
+- 🎀 Perfect for showing off creativity.
 
 ---
 
-## Theme
-- The background color is a soft blue.
-- Text is styled with Arial font.
+## Theme Features
+- **Background:** Soft pink (#ffe4e1)
+- **Headings:** Deep pink (#ff1493)
+- **Links:** Hot pink (#ff69b4)
+- **Font:** Comic Sans MS (or Arial fallback)
