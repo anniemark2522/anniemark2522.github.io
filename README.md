@@ -1,11 +1,16 @@
 
+# 🎀 Welcome to My GitHub Page 🎀
+
+✨ **Explore my projects and works in style!** ✨
+
+---
+
 ### 🌐 GitHub Page URL  
 [🌸 Visit My Profile 🌸](https://anniemark2522.github.io)
 
 <br> <!-- เพิ่มการเว้นบรรทัด -->
 
-<img src="assets/image/picture.jpg" width="250px" alt="My Profile" style="border-radius: 50%; border: 5px solid; border-image: linear-gradient(to right, #ff69b4, #00bcd4); border-image-slice: 1; margin: 20px 0;">
-
+<img src="assets/image/picture.jpg" width="250px" alt="My Profile" style="border-radius: 50%; margin: 20px 0;">
 
 <br> <!-- เพิ่มการเว้นบรรทัด -->
 

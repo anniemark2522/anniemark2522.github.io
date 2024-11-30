@@ -1,9 +1,10 @@
 # _config.yml
 title: "Klittima's GitHub Page"  # ชื่อเว็บไซต์
 description: "A cute minimal theme page"  # คำอธิบาย
-remote_theme: pages-themes/cayman  # ใช้ธีมจาก remote หากต้องการธีมที่สะอาดและน่ารัก
+theme: minimal-mistakes  # ใช้ธีมจาก remote หากต้องการธีมที่สะอาดและน่ารัก
 sass:
   custom_css: assets/css/style.scss  # หรือใช้ .css หากคุณใช้ไฟล์ CSS แทน SCSS
+
 url: "https://anniemark2522.github.io"
 baseurl: ""
-
+color_scheme: "pink"  # ให้ใช้สีชมพูในการแสดงผล
