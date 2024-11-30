@@ -1,4 +1,4 @@
-<div align="center" style="background-color: #ffe4e1; padding: 20px; border-radius: 15px; max-width: 800px; margin: 0 auto;">
+<div align="center" style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: #ffe4e1; border-radius: 15px;">
 
 # 🎀 Welcome to My GitHub Page 🎀
 
@@ -8,6 +8,8 @@
 
 ### 🌐 GitHub Page URL  
 [🌸 Visit My Profile 🌸](https://anniemark2522.github.io)
+
+<br> <!-- Add line break here -->
 
 <img src="assets/image/picture.jpg" width="160px" alt="My Profile" style="border-radius: 50%; border: 3px solid #ff69b4; margin: 20px 0;">
 
@@ -19,11 +21,16 @@
 - **University:** Kasetsart University Sriracha Campus  
 - **Major:** Computer Science  
 
+<br><br> <!-- Add line break here -->
+
 ---
 
 ## 🎯 My Projects  
 
-[💻 **"Work Vocabu"**]
+[💻 **Personal Portfolio Website**](https://anniemark2522.github.io)  
+A showcase of my works and achievements.
+
+<br><br> <!-- Add line break here -->
 
 ---
 
