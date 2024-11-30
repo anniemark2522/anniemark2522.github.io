@@ -2,7 +2,9 @@
 title: "Klittima's GitHub Page"  # ชื่อเว็บไซต์
 description: "A cute minimal theme page"  # คำอธิบาย
 
-remote_theme: pages-themes/cayman  # ใช้ธีมจาก remote หากต้องการธีมที่สะอาดและน่ารัก
+#remote_theme: pages-themes/cayman  # ใช้ธีมจาก remote หากต้องการธีมที่สะอาดและน่ารัก
+remote_theme: jekyll-theme-primer
+
 
 sass:
   custom_css: assets/css/style.scss  # หรือใช้ .css หากคุณใช้ไฟล์ CSS แทน SCSS
