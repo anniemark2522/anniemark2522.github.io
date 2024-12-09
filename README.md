@@ -8,7 +8,7 @@
 
 ---
 
-![My Profile](assets/image/picture.jpg){width=250px style="border-radius: 50%; margin: 20px 0; display:block; margin-left:auto; margin-right:auto;"}
+![My Profile](assets/image/picture.jpg)
 
 ---
 
