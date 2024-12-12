@@ -21,7 +21,7 @@
 ---
 
 ## 🦄 Assignment
-- [💻 **Work1: Vocabulary**](https://anniemark2522.github.io/vocab/Message_Digest)  
+- [💻 **Work1: Vocabulary**](https://anniemark2522.github.io/vocab/message-digest)  
 
 ---
 
