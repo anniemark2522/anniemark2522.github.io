@@ -22,6 +22,9 @@
 
 ## 🦄 Assignment
 - [💻 **Work1: Vocabulary**](https://anniemark2522.github.io/vocab/message-digest)  
+## 🎄 e-Card 2025
+- [✨ View my Christmas & New Year 2025 e-Card ✨](https://anniemark2522.github.io/e-card)
+
 
 ---
 
