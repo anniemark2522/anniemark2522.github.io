@@ -3,14 +3,12 @@ layout: default
 title: e-Card 2025
 ---
 
-# 🎄 Christmas & New Year 2025 e-Card 🎄
+# 🎄 Christmas & New Year 2025 e-Card 🎄 
+
+![e-Card 2025](assets/image/encode.png)  
 
 ✨ **Merry Christmas & Happy New Year 2025!** ✨  
 **Warm wishes for a joyful holiday season filled with happiness and success.** 🎉  
-
----
-
-![e-Card 2025](assets/image/encode.png)  
 
 ---
 
