@@ -1,0 +1,8 @@
+title: "Merry Christmas and Happy New Year 2025"
+description: "E-Card 2025"
+theme: "jekyll-theme-minimal"
+url: "https://anniemark2522.github.io/card/e-card"
+baseurl: "/card"  # กำหนด baseurl เป็น "/vocabulary" เพื่อให้ URL ย่อยถูกต้อง
+color_scheme: "light"  # หรือ "dark" ขึ้นอยู่กับธีมที่เลือก
+sass:
+  custom_css: assets/css/style.scss

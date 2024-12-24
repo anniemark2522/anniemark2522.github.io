@@ -22,7 +22,7 @@
 
 ## 🦄 Assignment
 - [💻 **Work1: Vocabulary**](https://anniemark2522.github.io/vocab/message-digest)  
-- [🎄 **Work2: e-Card 2025**](https://anniemark2522.github.io/e-card)
+- [🎄 **Work2: e-Card 2025**](https://anniemark2522.github.io/card/e-card)
 
 
 
