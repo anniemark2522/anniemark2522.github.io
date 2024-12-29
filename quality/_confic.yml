@@ -1,0 +1,8 @@
+title: "Data Quality"
+description: "Validity"
+theme: "jekyll-theme-minimal"
+url: "https://anniemark2522.github.io/quality/validity"
+baseurl: "/quality"  # กำหนด baseurl เป็น "/vocabulary" เพื่อให้ URL ย่อยถูกต้อง
+color_scheme: "light"  # หรือ "dark" ขึ้นอยู่กับธีมที่เลือก
+sass:
+  custom_css: assets/css/style.scss
