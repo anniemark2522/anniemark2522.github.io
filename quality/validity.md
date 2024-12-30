@@ -5,7 +5,7 @@
 
 | **Source**          | **Definition**   
 |---------------------|----------------------------------------------------------------------------------------------------|
-| **Definition**       | Validity checks whether the data values fall within acceptable ranges and adhere to defined constraints. Are phone numbers formatted correctly? Do product prices stay within realistic boundaries? |
+| **Astera**       | Validity checks whether the data values fall within acceptable ranges and adhere to defined constraints. Are phone numbers formatted correctly? Do product prices stay within realistic boundaries? |
 | **ChatGPT**          | Validity หมายถึงการตรวจสอบว่าค่าข้อมูลอยู่ในช่วงที่ยอมรับได้และปฏิบัติตามข้อกำหนดที่กำหนดไว้หรือไม่ เช่น หมายเลขโทรศัพท์มีรูปแบบที่ถูกต้องหรือไม่ (เช่น จำนวนหลักครบถ้วน หรือมีรหัสประเทศตามความจำเป็น) ราคาสินค้าอยู่ในขอบเขตที่สมเหตุสมผลหรือไม่ (เช่น ไม่ต่ำเกินไปหรือสูงเกินไปจนผิดปกติ) การตรวจสอบนี้ช่วยให้มั่นใจว่าข้อมูลที่ใช้งานนั้นถูกต้องและเหมาะสม. |
 | **GEMINI**           | การตรวจสอบความถูกต้องคือการเช็คว่าข้อมูลที่เรามีอยู่นั้นถูกต้องและเป็นไปตามที่กำหนดไว้ เช่น หมายเลขโทรศัพท์ต้องมีรูปแบบที่ถูกต้อง หรือราคาสินค้าต้องสมเหตุสมผล ไม่แพงหรือถูกเกินไป |
 
