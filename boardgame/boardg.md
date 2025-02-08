@@ -54,6 +54,6 @@
 ## สมาชิกในกลุ่ม
 - [Supakrit Somritjinda](https://jekoflash.github.io/boardGame)
 - [Veeraya Lekchaoum](https://valin4637.github.io/boardGame)
-- [ชื่อสมาชิก 3]
-- [ชื่อสมาชิก 4]
-- [ชื่อสมาชิก 5]
+- [Nakorn Tungprapaporn](https://taedate.github.io/boardgame)
+- [Nonpawit Silabumrungrad](https://waterondaway.github.io/boardgame)
+- [Natchanan Lordee](https://ncnld2547.github.io/boardgameActivity.html)
