@@ -26,7 +26,7 @@
 - [📊 **Work3: Validity**](https://anniemark2522.github.io/quality/validity)
 - [📊 **Work4: BoardGame**](https://anniemark2522.github.io/boardgame/boardg)
 - [📊 **Work5: Security Control**](https://anniemark2522.github.io/control/sucurity-control)
-- [📊 **Work5: Security Requirement**](https://anniemark2522.github.io/sucurity-requirement)
+- [📊 **Work5: Security Requirement**](https://anniemark2522.github.io/securitys/sucurity-requirement)
 
 
 
