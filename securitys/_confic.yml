@@ -2,7 +2,7 @@ title: "Security"
 description: "Security Requirement"
 theme: "jekyll-theme-minimal"
 url: "https://anniemark2522.github.io/securitys/security-requirement"
-baseurl: "/vocab"  # กำหนด baseurl เป็น "/vocabulary" เพื่อให้ URL ย่อยถูกต้อง
+baseurl: "/securitys"  # กำหนด baseurl เป็น "/vocabulary" เพื่อให้ URL ย่อยถูกต้อง
 color_scheme: "light"  # หรือ "dark" ขึ้นอยู่กับธีมที่เลือก
 sass:
   custom_css: assets/css/style.scss
