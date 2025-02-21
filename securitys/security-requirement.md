@@ -1,12 +1,10 @@
 # 7.2.1 Log Processing
 
-
 | Source  | Translation |
 |---------|------------|
 | **Description** | Verify that all authentication decisions are logged, without storing sensitive session tokens or passwords. This should include requests with relevant metadata needed for security investigations. |
 | **ChatGPT** | ตรวจสอบให้แน่ใจว่ามีการบันทึกทุกการตัดสินใจเกี่ยวกับการยืนยันตัวตน โดยไม่จัดเก็บโทเค็นเซสชันหรือรหัสผ่านที่เป็นข้อมูลอ่อนไหว ข้อมูลที่บันทึกควรรวมถึงคำขอและเมตาดาทาที่เกี่ยวข้อง ซึ่งจำเป็นสำหรับการตรวจสอบด้านความปลอดภัย |
 | **Gemini** | ตรวจสอบว่าการตัดสินใจเกี่ยวกับการยืนยันตัวตนทั้งหมดถูกบันทึกไว้ โดยไม่จัดเก็บโทเค็นเซสชันหรือรหัสผ่านที่ละเอียดอ่อน ข้อมูลนี้ควรรวมถึงคำขอพร้อมข้อมูลเมตาที่เกี่ยวข้องซึ่งจำเป็นสำหรับการตรวจสอบความปลอดภัย |
-----
 
 ### Summary
 
